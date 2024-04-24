@@ -1,3 +1,5 @@
+package week01;
+
 public class typeChange1 {
     public static void main(String[] args) {
         int intNumber = 10;

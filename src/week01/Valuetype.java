@@ -1,3 +1,5 @@
+package week01;
+
 public class Valuetype {
     public static void main(String[] args) {
         boolean flag = true;

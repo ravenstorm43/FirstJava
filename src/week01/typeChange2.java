@@ -1,3 +1,5 @@
+package week01;
+
 public class typeChange2 {
     public static void main(String[] args) {
         // 자료형 표현 범위

@@ -1,3 +1,5 @@
+package week01;
+
 public class typeChange {
     public static void main(String[] args) {
         double doubleNumber = 10.101010;
